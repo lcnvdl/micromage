@@ -1,0 +1,32 @@
+{
+  "name": "micromage",
+  "version": "0.0.1",
+  "description": "MicroMage is a tool that runs, manages, customizes and keep updated your microservices in production",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lcnvdl/micromage.git"
+  },
+  "keywords": [
+    "micromage",
+    "microservices",
+    "services",
+    "updates",
+    "manage",
+    "production"
+  ],
+  "author": "lcnvdl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lcnvdl/micromage/issues"
+  },
+  "homepage": "https://github.com/lcnvdl/micromage#readme",
+  "dependencies": {
+    "colog": "^1.0.4",
+    "commander": "^3.0.0",
+    "yamljs": "^0.3.0"
+  }
+}
